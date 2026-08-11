@@ -12,6 +12,15 @@
 
 
 def max_profit(prices: list[int]) -> int:
+    """
+    Return the maximum profit possible by buying and selling a stock once.
+
+    Args:
+        prices: A list of stock prices for each day.
+
+    Returns:
+        The maximum profit obtainable, or 0 if no profitable trade exists.
+    """
     # Write your code here
 
     # initialize your tracking variables here
