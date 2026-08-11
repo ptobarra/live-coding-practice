@@ -9,6 +9,7 @@ A collection of classic coding-interview problems, solved in Python while practi
 | 1 | Two Sum | [1-two_sum.py](1-two_sum.py) |
 | 2 | Valid Parentheses | [2-valid_parentheses.py](2-valid_parentheses.py) |
 | 3 | Best Time to Buy and Sell Stock | [3-best_time_to_buy_and_sell_stock.py](3-best_time_to_buy_and_sell_stock.py) |
+| 4 | Merge Two Sorted Lists | [4-merge_two_sorted_lists.py](4-merge_two_sorted_lists.py) |
 
 ## Getting started
 
