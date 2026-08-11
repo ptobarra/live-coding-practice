@@ -1,9 +1,16 @@
 # You are given the headers of two ordered linked lists, list1 and list2. Merge the two lists into a single ordered list.
 
+
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+
 # Recursive solution: O(n+m)-space version
 def merge_two_lists_recursive(
-    list1: Optional[ListNode], list2: Optional[ListNode]
-) -> Optional[ListNode]:
+    list1: ListNode | None, list2: ListNode | None
+) -> ListNode | None:
     """
     Merge two sorted linked lists into one sorted linked list.
 
