@@ -10,7 +10,15 @@ A collection of classic coding-interview problems, solved in Python while practi
 | 2 | Valid Parentheses | [2-valid_parentheses.py](2-valid_parentheses.py) |
 | 3 | Best Time to Buy and Sell Stock | [3-best_time_to_buy_and_sell_stock.py](3-best_time_to_buy_and_sell_stock.py) |
 | 4 | Merge Two Sorted Lists | [4-merge_two_sorted_lists.py](4-merge_two_sorted_lists.py) |
-| 5 | Thread-Safe Metrics Aggregation | [Thread_safe_metrics_aggregation.py](Thread_safe_metrics_aggregation.py) |
+| 5 | Valid Anagram | [5-valid_anagram.py](5-valid_anagram.py) |
+| 6 | Binary Search | [6-binary_search.py](6-binary_search.py) |
+| 7 | Reverse Linked List | [7-reverse_linked_list.py](7-reverse_linked_list.py) |
+| 8 | Contains Duplicate | [8-contains_duplicate.py](8-contains_duplicate.py) |
+| 9 | Maximum Subarray | [9-maximum_subarray.py](9-maximum_subarray.py) |
+| 10 | 3Sum | [10-3Sum.py](10-3Sum.py) |
+| 11 | Climbing Stairs | [11-climbing_stairs.py](11-climbing_stairs.py) |
+| 12 | Longest Palindromic Substring | [12-longest_palindrominc_substring.py](12-longest_palindrominc_substring.py) |
+| 13 | Thread-Safe Metrics Aggregation | [Thread_safe_metrics_aggregation.py](Thread_safe_metrics_aggregation.py) |
 
 ## Getting started
 
