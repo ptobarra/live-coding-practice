@@ -19,6 +19,11 @@ A collection of classic coding-interview problems, solved in Python while practi
 | 11 | Climbing Stairs | [11-climbing_stairs.py](11-climbing_stairs.py) |
 | 12 | Longest Palindromic Substring | [12-longest_palindrominc_substring.py](12-longest_palindrominc_substring.py) |
 | 13 | Thread-Safe Metrics Aggregation | [Thread_safe_metrics_aggregation.py](Thread_safe_metrics_aggregation.py) |
+| 37 | Unique Paths | [37-unique_paths.py](37-unique_paths.py) |
+| 113 | First Missing Positive | [113-first_missing_positive.py](113-first_missing_positive.py) |
+| 130 | House Robber II | [130-house_robber_2.py](130-house_robber_2.py) |
+| 141 | Majority Element | [141-majority_element.py](141-majority_element.py) |
+| 147 | Flatten Binary Tree to Linked List | [147-flatten_binary_tree_to_linked_list.py](147-flatten_binary_tree_to_linked_list.py) |
 
 ## Getting started
 
